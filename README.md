@@ -13,6 +13,6 @@ We present these files as obtained, with no checks of any kind.
 
 Readme files:
 
-* [DX Debug package for IDL}(./DXREADME)
+* [DX Debug package for IDL](./DXREADME)
 * [GRAPHICS package](./GREADME)
 * [MPFIT package](./MPREADME)
